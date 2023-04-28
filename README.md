@@ -4,8 +4,7 @@ This repository contains a [notebook](https://github.com/haesleinhuepf/geisterr-
 Scientific results produced using the software are published in:
 * Optimisation and Validation of a Swarm Intelligence Based Segmentation Algorithm for Low Contrast Positron Emission Tomography. R Haase. Dissertation, TU Dresden, 2014
 
-* Prognostic value of baseline [18F]-fluorodeoxyglucose positron emission tomography parameters MTV, TLG and asphericity in an international multicenter cohort of nasopharyngeal carcinoma patients. 
-S Zschaeck, Y Li, Q Lin, M Beck, H Amthauer et al - PLOS ONE, 2020
+
 
 * Spatial distribution of FMISO in head and neck squamous cell carcinomas during radio-chemotherapy and its correlation to pattern of failure.
 S Zschaeck, R Haase, N Abolmaali, R Perrin, K Stützer et al - Acta Oncologica, 2015
